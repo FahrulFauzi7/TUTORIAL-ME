@@ -1,0 +1,8 @@
+default port : scp username@ip_vps:/path/to/file /lokasi/di/pc/
+some port    : scp -P 2119 kacoma@31.56.56.74:/home/kacoma/rl-swarm/swarm.pem C:/Users/GAMING/Downloads/
+
+
+
+username : username vps 
+path1 : path file di vps 
+path2 : path mau di taruh di local pc dimana 
